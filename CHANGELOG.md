@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-03-19 (evening)
+
+### Merge-With-Ruppin-repo list cleanup
+
+- Verified and deleted 3 duplicate GitHub repos: `C-practice`, `Python-Matala-Final`, `Pr` — all content already existed in `Ruppin-Assignments-2025/`
+- Pushed Year 1 coursework (531 source files) to `Ruppin-Assignments-2025` remote (was empty since creation)
+- Updated `Ruppin-Assignments-2025/.gitignore`: replaced blanket `pr/` ignore with targeted excludes for PDFs, exams, build artifacts, and binaries
+- Removed 17 nested `.git` directories from `courses2025/` subfolders (former standalone repos)
+- Skipped `AI-pr` merge (private, contains exam/slide materials) — added to BACKLOG.md
+- Created `BACKLOG.md` for pending repo tasks
+
 ## 2026-03-19
 
 ### Repo Organization (2026B semester setup)
