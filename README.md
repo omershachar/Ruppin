@@ -16,14 +16,12 @@ My journey through the CS degree at Ruppin Academic Center.
 
 ### Year 2, Sem 1 — 2026A
 
-Partner: **Aviv Itzhak**
-
-| Course | Tech | Assignments | Repo |
-|--------|------|:-----------:|------|
-| Advanced OOP | Java | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| Client-Side Web Development | HTML, CSS, JS | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| Databases | SQL (PostgreSQL, SQL Server) | 3 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| AI & Machine Learning | Python, Jupyter | 4 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
+| Course | Tech | With | Assignments | Repo |
+|--------|------|------|:-----------:|------|
+| Advanced OOP | Java | Aviv Itzhak | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
+| Client-Side Web Development | HTML, CSS, JS | Aviv Itzhak | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
+| Databases | SQL (PostgreSQL, SQL Server) | Aviv Itzhak | 3 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
+| AI & Machine Learning | Python, Jupyter | Solo | 4 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
 
 ---
 
