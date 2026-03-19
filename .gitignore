@@ -1,0 +1,18 @@
+# Child repos (managed independently)
+Ruppin-Assignments-2025/
+Ruppin-Assignments-2026A/
+Ruppin-Assignments-2026B/
+WebDev-Server-Side/
+Software-Systems-Engineering/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
