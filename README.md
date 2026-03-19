@@ -18,10 +18,10 @@ My journey through the CS degree at Ruppin Academic Center.
 
 | Course | Tech | With | Assignments | Repo |
 |--------|------|------|:-----------:|------|
-| Advanced OOP | Java | Aviv Itzhak | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| Client-Side Web Development | HTML, CSS, JS | Aviv Itzhak | 5 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| Databases | SQL (PostgreSQL, SQL Server) | Aviv Itzhak | 3 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
-| AI & Machine Learning | Python, Jupyter | Solo | 4 | [WebDev-Assignments](https://github.com/omershachar/WebDev-Assignments) |
+| Advanced OOP | Java | Aviv Itzhak | 5 | [Java/](https://github.com/omershachar/WebDev-Assignments/tree/main/Java) |
+| Web Dev — Client Side | HTML, CSS, JS | Aviv Itzhak | 5 | [WebDev/](https://github.com/omershachar/WebDev-Assignments/tree/main/WebDev) |
+| Databases | SQL (PostgreSQL, SQL Server) | Aviv Itzhak | 3 | [DB/](https://github.com/omershachar/WebDev-Assignments/tree/main/DB) |
+| AI & Machine Learning | Python, Jupyter | Solo | 4 | [Omer/AI-pr/](https://github.com/omershachar/WebDev-Assignments/tree/main/Omer/AI-pr) |
 
 ---
 
@@ -29,7 +29,7 @@ My journey through the CS degree at Ruppin Academic Center.
 
 | Course | Tech | With | Repo |
 |--------|------|------|------|
-| Web Dev — Server Side | .NET 6 / C# | TBD | [Ruppin-Assignments-2026B](https://github.com/omershachar/Ruppin-Assignments-2026B) |
+| Web Dev — Server Side | .NET 6 / C# | TBD | [WebDev-Server-Side/](https://github.com/omershachar/Ruppin-Assignments-2026B/tree/main/WebDev-Server-Side) |
 | Software Systems Engineering | — | TBD | [Ruppin-Assignments-2026B](https://github.com/omershachar/Ruppin-Assignments-2026B) |
 | Calculus 2 | — | Solo | [Ruppin-Assignments-2026B](https://github.com/omershachar/Ruppin-Assignments-2026B) |
 | Computational Models | — | Solo | [Ruppin-Assignments-2026B](https://github.com/omershachar/Ruppin-Assignments-2026B) |
