@@ -6,11 +6,11 @@ My journey through the CS degree at Ruppin Academic Center.
 
 ### Year 1 — 2025
 
-| Course | Tech | Repo |
-|--------|------|------|
-| Introduction to C | C | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
-| Introduction to C# | C# | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
-| Introduction to Python | Python | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
+| Course | Tech | With | Repo |
+|--------|------|------|------|
+| Introduction to C | C | Solo | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
+| Introduction to C# | C# | Maayan Retter | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
+| Introduction to Python | Python | Maayan Retter | [Ruppin-Assignments-2025](https://github.com/omershachar/Ruppin-Assignments-2025) |
 
 ---
 
